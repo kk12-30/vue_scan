@@ -27,6 +27,7 @@
 - requests
 - BeautifulSoup4
 - Playwright
+- 需存在路径“C:\Program Files\Google\Chrome\Application\chrome.exe”
 
 ### 安装依赖
 
